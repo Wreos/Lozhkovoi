@@ -1,0 +1,6 @@
+c:\users\александр\source\repos\c_client\c_client\obj\Debug\c_client.csproj.CoreCompileInputs.cache
+c:\users\александр\source\repos\c_client\c_client\bin\Debug\c_client.exe.config
+c:\users\александр\source\repos\c_client\c_client\bin\Debug\c_client.exe
+c:\users\александр\source\repos\c_client\c_client\bin\Debug\c_client.pdb
+c:\users\александр\source\repos\c_client\c_client\obj\Debug\c_client.exe
+c:\users\александр\source\repos\c_client\c_client\obj\Debug\c_client.pdb

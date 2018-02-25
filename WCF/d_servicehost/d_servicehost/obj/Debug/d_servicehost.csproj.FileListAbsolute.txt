@@ -1,0 +1,10 @@
+c:\users\александр\source\repos\d_servicehost\d_servicehost\bin\Debug\d_servicehost.exe.config
+c:\users\александр\source\repos\d_servicehost\d_servicehost\bin\Debug\d_servicehost.exe
+c:\users\александр\source\repos\d_servicehost\d_servicehost\bin\Debug\d_servicehost.pdb
+c:\users\александр\source\repos\d_servicehost\d_servicehost\bin\Debug\b_firstService.dll
+c:\users\александр\source\repos\d_servicehost\d_servicehost\bin\Debug\b_firstService.pdb
+c:\users\александр\source\repos\d_servicehost\d_servicehost\bin\Debug\b_firstService.dll.config
+c:\users\александр\source\repos\d_servicehost\d_servicehost\obj\Debug\d_servicehost.csprojResolveAssemblyReference.cache
+c:\users\александр\source\repos\d_servicehost\d_servicehost\obj\Debug\d_servicehost.csproj.CoreCompileInputs.cache
+c:\users\александр\source\repos\d_servicehost\d_servicehost\obj\Debug\d_servicehost.exe
+c:\users\александр\source\repos\d_servicehost\d_servicehost\obj\Debug\d_servicehost.pdb

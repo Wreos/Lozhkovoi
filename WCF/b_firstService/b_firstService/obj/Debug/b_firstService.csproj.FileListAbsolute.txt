@@ -1,0 +1,6 @@
+c:\users\александр\source\repos\b_firstService\b_firstService\bin\Debug\b_firstService.dll.config
+c:\users\александр\source\repos\b_firstService\b_firstService\bin\Debug\b_firstService.dll
+c:\users\александр\source\repos\b_firstService\b_firstService\bin\Debug\b_firstService.pdb
+c:\users\александр\source\repos\b_firstService\b_firstService\obj\Debug\b_firstService.csproj.CoreCompileInputs.cache
+c:\users\александр\source\repos\b_firstService\b_firstService\obj\Debug\b_firstService.dll
+c:\users\александр\source\repos\b_firstService\b_firstService\obj\Debug\b_firstService.pdb
