@@ -1,0 +1,19 @@
+I:\Sockets\MultiClient\bin\Debug\Multi Client.exe.config
+I:\Sockets\MultiClient\bin\Debug\Multi Client.exe
+I:\Sockets\MultiClient\bin\Debug\Multi Client.pdb
+I:\Sockets\MultiClient\obj\Debug\MultiClient.csproj.CoreCompileInputs.cache
+I:\Sockets\MultiClient\obj\Debug\Multi Client.exe
+I:\Sockets\MultiClient\obj\Debug\Multi Client.pdb
+I:\Sockets\MultiClient\obj\Debug\MultiClient.csprojResolveAssemblyReference.cache
+E:\Sockets\MultiClient\bin\Debug\Multi Client.exe.config
+E:\Sockets\MultiClient\obj\Debug\Multi Client.exe
+E:\Sockets\MultiClient\obj\Debug\Multi Client.pdb
+E:\Sockets\MultiClient\bin\Debug\Multi Client.exe
+E:\Sockets\MultiClient\bin\Debug\Multi Client.pdb
+E:\Sockets\MultiClient\obj\Debug\MultiClient.csprojResolveAssemblyReference.cache
+D:\Sockets\MultiClient\bin\Debug\Multi Client.exe.config
+D:\Sockets\MultiClient\obj\Debug\Multi Client.exe
+D:\Sockets\MultiClient\obj\Debug\Multi Client.pdb
+D:\Sockets\MultiClient\bin\Debug\Multi Client.exe
+D:\Sockets\MultiClient\bin\Debug\Multi Client.pdb
+D:\Sockets\MultiClient\obj\Debug\MultiClient.csprojResolveAssemblyReference.cache

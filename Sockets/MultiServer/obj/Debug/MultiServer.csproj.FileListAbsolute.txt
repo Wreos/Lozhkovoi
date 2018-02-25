@@ -1,0 +1,7 @@
+I:\Sockets\MultiServer\bin\Debug\Multi Server.exe.config
+I:\Sockets\MultiServer\bin\Debug\Multi Server.exe
+I:\Sockets\MultiServer\bin\Debug\Multi Server.pdb
+I:\Sockets\MultiServer\obj\Debug\MultiServer.csproj.CoreCompileInputs.cache
+I:\Sockets\MultiServer\obj\Debug\Multi Server.exe
+I:\Sockets\MultiServer\obj\Debug\Multi Server.pdb
+I:\Sockets\MultiServer\obj\Debug\MultiServer.csprojResolveAssemblyReference.cache
