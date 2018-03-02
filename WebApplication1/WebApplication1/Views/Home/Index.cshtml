@@ -1,0 +1,37 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+   <link type="text/css" rel="stylesheet" href="../../Content/Site.css"/>
+    <meta name=" viewport" content="width=device-width"/>
+    <title>Автопрокат</title>
+</head>
+<body>
+    <div>
+        <h3>Список автомобилей</h3>
+        <table>
+            <tr>
+                <td><p>Модель автомобиля</p></td>
+                <td><p>Производитель</p></td>
+                <td><p>Цена</p></td>
+                <td><p>Пробег</p></td>
+
+
+            </tr>
+@foreach (var b in ViewBag.Cars)
+{
+            <tr>
+                <td><p>@b.Model</p></td>
+                <td><p>@b.Manufacter</p></td>
+                <td><p>@b.Price</p></td>
+                <td><p>@b.Probeg</p></td>
+                <td> <p><a href="/Home/Buy/@b.Id">Купить</a></p></td>
+            </tr>
+}
+        </table>
+    </div>
+</body>
+</html>

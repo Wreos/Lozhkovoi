@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.WorkerPage" Title="Информация о работнике">
+    <StackLayout>
+        <Label Text="Имя" />
+        <Entry Text="{Binding Name}" />
+        <Label Text="Фамилия" />
+        <Entry Text="{Binding Family}" />
+        <Label Text="Телефон" />
+        <Entry Text="{Binding Phone}" />
+        <Label Text="Отработано часов" />
+        <Entry Text="{Binding Hours}" />
+        <Label Text="Ставка" />
+        <Entry Text="{Binding Tarif}" />
+       
+        <StackLayout Orientation="Horizontal">
+            <Button Text="Сохранить" Clicked="SaveWorker" />
+            <Button Text="Удалить" Clicked="DeleteWorker" />
+            <Button Text="Отмена" Clicked="Cancel" />
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

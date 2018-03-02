@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.WorkerPageInfo">
+    <StackLayout >
+
+       
+            
+          
+         
+           
+
+                <Label  Text="Имя" />
+        <Label Text="{Binding Name}" />
+        <Label Text="Телефон" />
+        <Label Text="{Binding Phone}" />
+        <Label Text="Отработано часов" />
+        <Label Text="{Binding Hours}" />
+        <Label Text="Ставка" />
+        <Label Text="{Binding Tarif}" />
+        <Label Text="Зарплата до вычета" />
+        <Label Text="{Binding Salary}" />
+        <Label Text="Зарплата после вычета" />
+        <Label Text="{Binding Salaryw}" />
+        <StackLayout Orientation="Horizontal">
+            <Button Text="Редактировать" Clicked="EditWorker" />
+            <Button Text="Удалить" Clicked="DeleteWorker" />
+            <Button Text="Отмена" Clicked="Cancel" />
+        </StackLayout>
+    </StackLayout>
+</ContentPage>
